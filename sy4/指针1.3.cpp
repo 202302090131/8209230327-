@@ -14,9 +14,9 @@ void main()
 {
     char st[] = "abcd";
     f(st, 4);
-}
-//运行输出时为
+    //运行输出时为
 //abcd
 //abc
 //ab
 //a
+}
